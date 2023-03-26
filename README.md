@@ -1,1 +1,1 @@
-# Gesture-Recognition# Hadoop
+# Gesture-Recognition
