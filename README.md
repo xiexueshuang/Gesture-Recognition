@@ -2,6 +2,10 @@
 ## Getting Started
 Go to this [MultCloud](https://share.multcloud.link/share/d8a702ef-d0c4-4d19-a15a-7b412d9eb027), and
 
-- Download the pretrained model weights `resn152_epoch_x.pth`
+- Download the pretrained model weights `resn152_epoch_x.pth` and place the file under `/checkpoints`
 - Download Dataset files `train_xd_csv` and `test_xd_csv`
 
+
+
+## Data Preprocessing
+- `python ./preprocessing/preprocessing.py`
